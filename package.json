@@ -1,7 +1,7 @@
 {
-  "name": "vanilla",
+  "name": "web-audio-playground",
   "version": "1.0.0",
-  "description": "JavaScript example starter project",
+  "description": "Web audio playground",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
@@ -13,7 +13,8 @@
     "parcel-bundler": "^1.6.1"
   },
   "keywords": [
-    "javascript",
-    "starter"
+    "web audio",
+    "vanilla",
+    "playground"
   ]
 }
